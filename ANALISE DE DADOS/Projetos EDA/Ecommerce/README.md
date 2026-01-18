@@ -18,7 +18,7 @@ Este projeto simula a rotina de um analista de dados em um pequeno e‑commerce.
 
 - Identificar quais categorias e produtos mais geram receita.  
 
-- Avaliar ticket médio, quantidade média de itens por pedido e formas de pagamento mais utilizadas.\[file:333]
+- Avaliar ticket médio, quantidade média de itens por pedido e formas de pagamento mais utilizadas.
 
 
 
